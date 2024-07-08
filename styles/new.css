@@ -263,3 +263,45 @@ margin-bottom: 20px;
 width: 424px;
 height: 450px;
 }
+/* porfolio ends here */
+.footer-conteiner{
+width: 1600px;
+height: 609px;
+background-color: rgba(7, 2, 17);
+margin: 0 auto;
+padding: 50px;
+}
+.content{
+  color: white;
+  display: flex;
+}
+.footer-first-section{
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 120px;
+  margin-bottom: 100px;
+}
+.hr{
+  margin: 0 auto;
+  width: 90%;
+}
+.footer-icon{
+  display: flex;
+  justify-content: space-evenly;
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer-end-text{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  height: 30px;
+  margin-top: 60px;
+}
